@@ -2,6 +2,8 @@
 
 **Bonsai Scout** is a lightweight, interactive CLI tool written in Rust that helps you discover aesthetically pleasing tree configurations (seeds) for `cbonsai`.
 
+![Bonsai Scout Demo](./assets/main.jpg)
+
 Instead of manually rerunning random generations, Bonsai Scout streamlines the process with a smooth, keyboard-driven workflow — making exploration fast, fun, and efficient.
 
 ---
